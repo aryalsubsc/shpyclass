@@ -1,4 +1,9 @@
-import utiliti.utils
+#import utiliti.utils
+#numbers=[10,2,4,6,20]
+#maximum=utiliti.utils.find_max(numbers)
+#print(maximum)
+
+from utiliti.utils import find_max
 numbers=[10,2,4,6,20]
-max=find_max(numbers)
-print(max)
+maximum=find_max(numbers)
+print(maximum)
