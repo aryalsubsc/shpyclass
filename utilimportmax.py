@@ -10,3 +10,4 @@ from utiliti.utils import find_max
 numbers=[10,2,4,6,20]
 maximum=find_max(numbers)
 print(maximum)
+print(f"Max number is {maximum}")
